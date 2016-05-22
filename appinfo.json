@@ -14,8 +14,7 @@
     "shortName": "TimeSquares",
     "targetPlatforms": [
         "aplite",
-        "basalt",
-        "chalk"
+        "basalt"
     ],
     "uuid": "e383576a-0b94-442b-8a54-bfc96499af34",
     "versionLabel": "1.0",
