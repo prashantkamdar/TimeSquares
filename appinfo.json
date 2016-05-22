@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "prashantkamdar@gmail.com",
+    "enableMultiJS": true,
+    "longName": "TimeSquares",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "TimeSquares",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "e383576a-0b94-442b-8a54-bfc96499af34",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
